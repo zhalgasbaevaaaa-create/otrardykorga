@@ -1,8 +1,0 @@
-{
-  "name": "Отырарды қорға 1",
-  "description": "1219–1220 жылдардағы Отырар қорғанысына арналған тарихи-стратегиялық интерактивті білім беру ойыны",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
